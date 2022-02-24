@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Dives",
+    "slug": "diverss",
+    "privacy": "public",
+    "description": "Dive Logging App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1F2037"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1F2037"
+      },
+      "package": "com.org.divess"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "IOS_KEY": "435866783988-gk8r14195vjoij7pnvf4tg540iek5hag.apps.googleusercontent.com",
+      "ANDROID_KEY": "435866783988-kucln6rnat91gofag5gjrvrv6207nbnd.apps.googleusercontent.com"
+    }
+  }
+}

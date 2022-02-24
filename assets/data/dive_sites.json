@@ -1,0 +1,3222 @@
+[
+ {
+   "OBJECTID": 1,
+   "Name": "Alidhoo Caves",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.8487,
+   "longitude": 73.14923333
+ },
+ {
+   "OBJECTID": 2,
+   "Name": "Amba Canyon",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.737583333,
+   "longitude": 73.11321667
+ },
+ {
+   "OBJECTID": 3,
+   "Name": "Amba Canyon 2",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.73905,
+   "longitude": 73.1117
+ },
+ {
+   "OBJECTID": 4,
+   "Name": "Amba Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.73485,
+   "longitude": 73.11678333
+ },
+ {
+   "OBJECTID": 5,
+   "Name": "Anemon Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.62695,
+   "longitude": 72.96691667
+ },
+ {
+   "OBJECTID": 6,
+   "Name": "Baarah Fairu",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.81425,
+   "longitude": 73.21781667
+ },
+ {
+   "OBJECTID": 7,
+   "Name": "Baarah Thila",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.8066,
+   "longitude": 73.1854
+ },
+ {
+   "OBJECTID": 8,
+   "Name": "Bodu Magu Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.751416667,
+   "longitude": 73.04553333
+ },
+ {
+   "OBJECTID": 9,
+   "Name": "Bodu Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.738516667,
+   "longitude": 73.11668333
+ },
+ {
+   "OBJECTID": 10,
+   "Name": "Buri Cave",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.752,
+   "longitude": 72.92795
+ },
+ {
+   "OBJECTID": 11,
+   "Name": "Coral Garden",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.818216667,
+   "longitude": 72.94946667
+ },
+ {
+   "OBJECTID": 12,
+   "Name": "Coral Garden",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.81545,
+   "longitude": 72.95766667
+ },
+ {
+   "OBJECTID": 13,
+   "Name": "Dhapparu",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.913283333,
+   "longitude": 73.20976667
+ },
+ {
+   "OBJECTID": 14,
+   "Name": "Finey Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.736766667,
+   "longitude": 73.05595
+ },
+ {
+   "OBJECTID": 15,
+   "Name": "Fushi Faru",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.76445,
+   "longitude": 72.93433333
+ },
+ {
+   "OBJECTID": 16,
+   "Name": "Hanimaadhoo Faru",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.76315,
+   "longitude": 73.15443333
+ },
+ {
+   "OBJECTID": 17,
+   "Name": "Hanimaadhoo Corner",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.724316667,
+   "longitude": 73.15443333
+ },
+ {
+   "OBJECTID": 18,
+   "Name": "Hirimaradhoo Faru",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.719483333,
+   "longitude": 73.02771667
+ },
+ {
+   "OBJECTID": 19,
+   "Name": "Hirimaradhoo Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.70495,
+   "longitude": 73.02766667
+ },
+ {
+   "OBJECTID": 20,
+   "Name": "Hodaidhoo Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.765333333,
+   "longitude": 73.08978333
+ },
+ {
+   "OBJECTID": 21,
+   "Name": "Hondhadhoo Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.7748,
+   "longitude": 73.08285
+ },
+ {
+   "OBJECTID": 22,
+   "Name": "Huruma Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.73965,
+   "longitude": 73.11081667
+ },
+ {
+   "OBJECTID": 23,
+   "Name": "Keylakuna Kuda Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.605116667,
+   "longitude": 72.98048333
+ },
+ {
+   "OBJECTID": 24,
+   "Name": "Keylakuna Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.6354,
+   "longitude": 72.9779
+ },
+ {
+   "OBJECTID": 25,
+   "Name": "Kiha Fen",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.80315,
+   "longitude": 72.9702
+ },
+ {
+   "OBJECTID": 26,
+   "Name": "Komundhoo Kandu",
+   "Atoll": "SHAVIYANI  ATOLL",
+   "Latitude": 6.04995,
+   "longitude": 73.04391667
+ },
+ {
+   "OBJECTID": 27,
+   "Name": "Komundhoo Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.537283333,
+   "longitude": 73.0538
+ },
+ {
+   "OBJECTID": 28,
+   "Name": "Kuda Ali Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.735966667,
+   "longitude": 73.11468333
+ },
+ {
+   "OBJECTID": 29,
+   "Name": "Kuda Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.706316667,
+   "longitude": 72.9794
+ },
+ {
+   "OBJECTID": 30,
+   "Name": "Maa Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.73485,
+   "longitude": 73.11678333
+ },
+ {
+   "OBJECTID": 31,
+   "Name": "Magic Mushroom",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.704616667,
+   "longitude": 72.94595
+ },
+ {
+   "OBJECTID": 32,
+   "Name": "Marandhoo Blue",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.848416667,
+   "longitude": 72.98135
+ },
+ {
+   "OBJECTID": 33,
+   "Name": "Marandhoo Blue",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.85285,
+   "longitude": 72.97966667
+ },
+ {
+   "OBJECTID": 34,
+   "Name": "Mas Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.71495,
+   "longitude": 72.98388333
+ },
+ {
+   "OBJECTID": 35,
+   "Name": "Mathi Faru (Dhonakuli)",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.852016667,
+   "longitude": 73.04316667
+ },
+ {
+   "OBJECTID": 36,
+   "Name": "Maavaidhoo Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.533783333,
+   "longitude": 73.05475
+ },
+ {
+   "OBJECTID": 37,
+   "Name": "Mulhidhoo",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.83805,
+   "longitude": 73.01538333
+ },
+ {
+   "OBJECTID": 38,
+   "Name": "Naivaidhoo Faru",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.739233333,
+   "longitude": 72.92675
+ },
+ {
+   "OBJECTID": 39,
+   "Name": "Nelaidhoo Giri",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.7203,
+   "longitude": 72.94536667
+ },
+ {
+   "OBJECTID": 40,
+   "Name": "Nelaidhoo Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.739966667,
+   "longitude": 72.97216667
+ },
+ {
+   "OBJECTID": 41,
+   "Name": "Thakandhoo Faru",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.83805,
+   "longitude": 72.9962
+ },
+ {
+   "OBJECTID": 42,
+   "Name": "Thakandhoo Thila",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.799566667,
+   "longitude": 72.9763
+ },
+ {
+   "OBJECTID": 43,
+   "Name": "Theefaridhoo Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.731616667,
+   "longitude": 73.0366
+ },
+ {
+   "OBJECTID": 44,
+   "Name": "Tine Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.632333333,
+   "longitude": 72.93958333
+ },
+ {
+   "OBJECTID": 45,
+   "Name": "Turtle Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.743816667,
+   "longitude": 73.06088333
+ },
+ {
+   "OBJECTID": 46,
+   "Name": "Vaikaradhoo Giri",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.567866667,
+   "longitude": 72.94325
+ },
+ {
+   "OBJECTID": 47,
+   "Name": "Vronidhoo Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.68965,
+   "longitude": 72.96255
+ },
+ {
+   "OBJECTID": 48,
+   "Name": "Christmas Rock",
+   "Atoll": "NOONU ATOLL",
+   "Latitude": 5.814,
+   "longitude": 73.25323333
+ },
+ {
+   "OBJECTID": 49,
+   "Name": "Yellow Wall",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.8932,
+   "longitude": 73.12985
+ },
+ {
+   "OBJECTID": 50,
+   "Name": "The Seagull Wreck",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.787659886,
+   "longitude": 73.45682819
+ },
+ {
+   "OBJECTID": 51,
+   "Name": "Hans Pass",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.779926637,
+   "longitude": 73.47229469
+ },
+ {
+   "OBJECTID": 52,
+   "Name": "The Lady Christina Wreck",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.765649871,
+   "longitude": 73.37830598
+ },
+ {
+   "OBJECTID": 53,
+   "Name": "Olhahali Blue Caves",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.700214694,
+   "longitude": 73.46039738
+ },
+ {
+   "OBJECTID": 54,
+   "Name": "Akirifushi Caves",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.634779516,
+   "longitude": 73.39496221
+ },
+ {
+   "OBJECTID": 55,
+   "Name": "Eriyadhu Thila",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.603846523,
+   "longitude": 73.4104287
+ },
+ {
+   "OBJECTID": 56,
+   "Name": "Eriyadhu Channel",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.621692481,
+   "longitude": 73.38901355
+ },
+ {
+   "OBJECTID": 57,
+   "Name": "Finger Point",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.558041899,
+   "longitude": 73.37473679
+ },
+ {
+   "OBJECTID": 58,
+   "Name": "Boduhithi Thila",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.449181558,
+   "longitude": 73.36105489
+ },
+ {
+   "OBJECTID": 59,
+   "Name": "Rasfari",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.392074493,
+   "longitude": 73.34261406
+ },
+ {
+   "OBJECTID": 60,
+   "Name": "Helengeli Thila",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.643702495,
+   "longitude": 73.56687826
+ },
+ {
+   "OBJECTID": 61,
+   "Name": "Trixie's Caves",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.576482721,
+   "longitude": 73.5918626
+ },
+ {
+   "OBJECTID": 62,
+   "Name": "Fairytale Reef Blue Caves",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.547929189,
+   "longitude": 73.61565721
+ },
+ {
+   "OBJECTID": 63,
+   "Name": "Fairytale Reef Manta Point",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.53781648,
+   "longitude": 73.64540048
+ },
+ {
+   "OBJECTID": 64,
+   "Name": "Kaashidhoo West Wall",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.970878383,
+   "longitude": 73.44017197
+ },
+ {
+   "OBJECTID": 65,
+   "Name": "Kaashidhoo East Faru",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.951842695,
+   "longitude": 73.47348442
+ },
+ {
+   "OBJECTID": 66,
+   "Name": "Maldives Victory",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.172569216,
+   "longitude": 73.52404797
+ },
+ {
+   "OBJECTID": 67,
+   "Name": "Villigili Faru",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.168405159,
+   "longitude": 73.48359713
+ },
+ {
+   "OBJECTID": 68,
+   "Name": "Old Shark Point",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.177923003,
+   "longitude": 73.453259
+ },
+ {
+   "OBJECTID": 69,
+   "Name": "Hans Hass Place",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.179112733,
+   "longitude": 73.42708493
+ },
+ {
+   "OBJECTID": 70,
+   "Name": "Lion's Head",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.182681925,
+   "longitude": 73.4122133
+ },
+ {
+   "OBJECTID": 71,
+   "Name": "Kuda Haa",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.187440847,
+   "longitude": 73.40388519
+ },
+ {
+   "OBJECTID": 72,
+   "Name": "Wattaru Kandu",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.265368195,
+   "longitude": 73.35094218
+ },
+ {
+   "OBJECTID": 73,
+   "Name": "Baros Thila",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.280239826,
+   "longitude": 73.43005926
+ },
+ {
+   "OBJECTID": 74,
+   "Name": "Asdu Kandu",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.492011856,
+   "longitude": 73.68585131
+ },
+ {
+   "OBJECTID": 75,
+   "Name": "Asdu Rock",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.45394048,
+   "longitude": 73.66622076
+ },
+ {
+   "OBJECTID": 76,
+   "Name": "Maabadhi Faru (Long Reef and Prisca Head)",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.483088877,
+   "longitude": 73.69953322
+ },
+ {
+   "OBJECTID": 77,
+   "Name": "Meeru Kandu",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.476545359,
+   "longitude": 73.69596402
+ },
+ {
+   "OBJECTID": 78,
+   "Name": "The Steps",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.456914806,
+   "longitude": 73.72630215
+ },
+ {
+   "OBJECTID": 79,
+   "Name": "Vilingilli Corner (Chicken Island)",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.370659345,
+   "longitude": 73.66800536
+ },
+ {
+   "OBJECTID": 80,
+   "Name": "Thulusdhoo Kandu",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.366495288,
+   "longitude": 73.65551319
+ },
+ {
+   "OBJECTID": 81,
+   "Name": "Lohifushi Corner",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.341510947,
+   "longitude": 73.62220073
+ },
+ {
+   "OBJECTID": 82,
+   "Name": "Kani Corner",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.339131486,
+   "longitude": 73.61506235
+ },
+ {
+   "OBJECTID": 83,
+   "Name": "Girifushi Thila (HP Reef)",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.309388224,
+   "longitude": 73.58948314
+ },
+ {
+   "OBJECTID": 84,
+   "Name": "Lankanfinolhu Faru (Manta Point)",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.276075769,
+   "longitude": 73.55379123
+ },
+ {
+   "OBJECTID": 85,
+   "Name": "Nassimo Thila (Paradise Rock)",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.282024422,
+   "longitude": 73.53951446
+ },
+ {
+   "OBJECTID": 86,
+   "Name": "Occaboli Thila (Barracuda Giri)",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.286783344,
+   "longitude": 73.52880689
+ },
+ {
+   "OBJECTID": 87,
+   "Name": "Maagiri Caves",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.262393869,
+   "longitude": 73.54427338
+ },
+ {
+   "OBJECTID": 88,
+   "Name": "Furana Thila",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.255850351,
+   "longitude": 73.5508169
+ },
+ {
+   "OBJECTID": 89,
+   "Name": "Bodu Banana Reef",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.239788989,
+   "longitude": 73.52880689
+ },
+ {
+   "OBJECTID": 90,
+   "Name": "Vaadhoo Caves",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 4.129738918,
+   "longitude": 73.45980252
+ },
+ {
+   "OBJECTID": 91,
+   "Name": "Coral Gardens",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 4.117246747,
+   "longitude": 73.46039738
+ },
+ {
+   "OBJECTID": 92,
+   "Name": "The Canyon",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 4.129144052,
+   "longitude": 73.51274553
+ },
+ {
+   "OBJECTID": 93,
+   "Name": "Embudhu Thila",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 4.088693215,
+   "longitude": 73.53416068
+ },
+ {
+   "OBJECTID": 94,
+   "Name": "Embudhu Kandu",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 4.085718889,
+   "longitude": 73.537135
+ },
+ {
+   "OBJECTID": 95,
+   "Name": "Gulhi Kandu",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.993514775,
+   "longitude": 73.51393526
+ },
+ {
+   "OBJECTID": 96,
+   "Name": "Gulhi Faru",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.992325044,
+   "longitude": 73.50441741
+ },
+ {
+   "OBJECTID": 97,
+   "Name": "Dhigufinolhu",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.98161747,
+   "longitude": 73.50620201
+ },
+ {
+   "OBJECTID": 98,
+   "Name": "Yatch Thila",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.969720165,
+   "longitude": 73.48954578
+ },
+ {
+   "OBJECTID": 99,
+   "Name": "Cocoa Faru",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.907259314,
+   "longitude": 73.48478686
+ },
+ {
+   "OBJECTID": 100,
+   "Name": "Cocoa Thila",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.909043909,
+   "longitude": 73.47586388
+ },
+ {
+   "OBJECTID": 101,
+   "Name": "Kandooma Point",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.901310661,
+   "longitude": 73.47943307
+ },
+ {
+   "OBJECTID": 102,
+   "Name": "Lhosfushi Kandu",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.893573991,
+   "longitude": 73.47203895
+ },
+ {
+   "OBJECTID": 103,
+   "Name": "Medhu Faru",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.890851553,
+   "longitude": 73.47146889
+ },
+ {
+   "OBJECTID": 104,
+   "Name": "Guuraidhoo Kandu South",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.889413356,
+   "longitude": 73.46218198
+ },
+ {
+   "OBJECTID": 105,
+   "Name": "Hathikolhu Kandu East",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.806132221,
+   "longitude": 73.39317761
+ },
+ {
+   "OBJECTID": 106,
+   "Name": "Hathikolhu Kandu West",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.807321951,
+   "longitude": 73.38425463
+ },
+ {
+   "OBJECTID": 107,
+   "Name": "Fihalhohi Faru",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.853721441,
+   "longitude": 73.36224462
+ },
+ {
+   "OBJECTID": 108,
+   "Name": "Bolifushi Thila",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 4.107728903,
+   "longitude": 73.39079815
+ },
+ {
+   "OBJECTID": 109,
+   "Name": "Farukolhu Kandu",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.681362677,
+   "longitude": 73.4492264
+ },
+ {
+   "OBJECTID": 110,
+   "Name": "Medhu Kandu (Dhiggiri Kuda Kandu)",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.620924367,
+   "longitude": 73.50966471
+ },
+ {
+   "OBJECTID": 111,
+   "Name": "Miyaru Kandu",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.599509218,
+   "longitude": 73.50490579
+ },
+ {
+   "OBJECTID": 112,
+   "Name": "Devana Kandu",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.558582489,
+   "longitude": 73.50680936
+ },
+ {
+   "OBJECTID": 113,
+   "Name": "Felidhoo Kandu",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.479584384,
+   "longitude": 73.55059144
+ },
+ {
+   "OBJECTID": 114,
+   "Name": "Foththeyo West Channel (Fushi Kandu)",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.468162971,
+   "longitude": 73.65623951
+ },
+ {
+   "OBJECTID": 115,
+   "Name": "Foththeyo Kandu",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.490054012,
+   "longitude": 73.69478678
+ },
+ {
+   "OBJECTID": 116,
+   "Name": "Rakeedhoo Kandu East",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.306359622,
+   "longitude": 73.47492458
+ },
+ {
+   "OBJECTID": 117,
+   "Name": "Rakeedhoo Kandu West",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.308739083,
+   "longitude": 73.46968977
+ },
+ {
+   "OBJECTID": 118,
+   "Name": "Vattaru Kandu",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.218795457,
+   "longitude": 73.42257644
+ },
+ {
+   "OBJECTID": 119,
+   "Name": "Kunarvashi Kandu",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.602364571,
+   "longitude": 73.33310871
+ },
+ {
+   "OBJECTID": 120,
+   "Name": "Kudhiboli Thila",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.639960055,
+   "longitude": 73.35928278
+ },
+ {
+   "OBJECTID": 121,
+   "Name": "Mulaku Kandu",
+   "Atoll": "MEEMU ATOLL",
+   "Latitude": 3.17834462,
+   "longitude": 73.47302101
+ },
+ {
+   "OBJECTID": 122,
+   "Name": "Bodu Mulaku Kandu",
+   "Atoll": "MEEMU ATOLL",
+   "Latitude": 3.160260717,
+   "longitude": 73.50062276
+ },
+ {
+   "OBJECTID": 123,
+   "Name": "Muli Madivaru",
+   "Atoll": "MEEMU ATOLL",
+   "Latitude": 2.931356568,
+   "longitude": 73.59104228
+ },
+ {
+   "OBJECTID": 124,
+   "Name": "Boli Mulah Giri",
+   "Atoll": "MEEMU ATOLL",
+   "Latitude": 2.954199394,
+   "longitude": 73.59151817
+ },
+ {
+   "OBJECTID": 125,
+   "Name": "Guraidhoo Corner",
+   "Atoll": "THAA ATOLL",
+   "Latitude": 2.331256502,
+   "longitude": 73.32073551
+ },
+ {
+   "OBJECTID": 126,
+   "Name": "Maa Giri",
+   "Atoll": "LAAMU ATOLL",
+   "Latitude": 1.832045583,
+   "longitude": 73.38545685
+ },
+ {
+   "OBJECTID": 127,
+   "Name": "British Loyalty Wreck",
+   "Atoll": "SEENU ATOLL",
+   "Latitude": -0.64402154,
+   "longitude": 73.12097976
+ },
+ {
+   "OBJECTID": 128,
+   "Name": "Mudakan",
+   "Atoll": "SEENU ATOLL",
+   "Latitude": -0.611422924,
+   "longitude": 73.15643373
+ },
+ {
+   "OBJECTID": 129,
+   "Name": "Meedhoo Beyra Miyaru",
+   "Atoll": "SEENU ATOLL",
+   "Latitude": -0.574779224,
+   "longitude": 73.24613941
+ },
+ {
+   "OBJECTID": 130,
+   "Name": "Mulikolhu Faru",
+   "Atoll": "SEENU ATOLL",
+   "Latitude": -0.669719718,
+   "longitude": 73.20449884
+ },
+ {
+   "OBJECTID": 131,
+   "Name": "Maarehaa Kandu",
+   "Atoll": "GAAFU ALIFU ATOLL",
+   "Latitude": 0.456089927,
+   "longitude": 73.57236786
+ },
+ {
+   "OBJECTID": 132,
+   "Name": "Villigili Kandu",
+   "Atoll": "GAAFU ALIFU ATOLL",
+   "Latitude": 0.871421039,
+   "longitude": 73.19197446
+ },
+ {
+   "OBJECTID": 133,
+   "Name": "Far Reef",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.9768521,
+   "longitude": 72.867849
+ },
+ {
+   "OBJECTID": 134,
+   "Name": "Kihafun Kandu",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.922124496,
+   "longitude": 73.03155592
+ },
+ {
+   "OBJECTID": 135,
+   "Name": "Madi Kandu",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.829325517,
+   "longitude": 73.03060414
+ },
+ {
+   "OBJECTID": 136,
+   "Name": "Fushi Kandu",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 3.006357416,
+   "longitude": 72.93447391
+ },
+ {
+   "OBJECTID": 137,
+   "Name": "Filitheyo Faru",
+   "Atoll": "FAAFU ATOLL",
+   "Latitude": 3.218129446,
+   "longitude": 73.04250144
+ },
+ {
+   "OBJECTID": 138,
+   "Name": "Ebulfushi",
+   "Atoll": "FAAFU ATOLL",
+   "Latitude": 3.137703664,
+   "longitude": 73.03441127
+ },
+ {
+   "OBJECTID": 139,
+   "Name": "Dharaboodhoo Point",
+   "Atoll": "FAAFU ATOLL",
+   "Latitude": 3.068223402,
+   "longitude": 72.92638374
+ },
+ {
+   "OBJECTID": 140,
+   "Name": "Himithi Thila",
+   "Atoll": "FAAFU ATOLL",
+   "Latitude": 3.211466955,
+   "longitude": 72.81169372
+ },
+ {
+   "OBJECTID": 141,
+   "Name": "Hangngnaameedhoo Thila (Athafaru Thila)",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.85249375,
+   "longitude": 72.95541317
+ },
+ {
+   "OBJECTID": 142,
+   "Name": "Omadhoo Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.786820626,
+   "longitude": 72.96302744
+ },
+ {
+   "OBJECTID": 143,
+   "Name": "Dhangethi Bodu Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.613595865,
+   "longitude": 72.95541317
+ },
+ {
+   "OBJECTID": 144,
+   "Name": "Broken Rock Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.571241459,
+   "longitude": 72.94351586
+ },
+ {
+   "OBJECTID": 145,
+   "Name": "Tinfushi Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.563627184,
+   "longitude": 72.93304623
+ },
+ {
+   "OBJECTID": 146,
+   "Name": "Kudarah Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.566006645,
+   "longitude": 72.91305876
+ },
+ {
+   "OBJECTID": 147,
+   "Name": "Dhigurah Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.545067388,
+   "longitude": 72.93637748
+ },
+ {
+   "OBJECTID": 148,
+   "Name": "Hukuruelhi Faru (Madivaru)",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.587897686,
+   "longitude": 72.71794296
+ },
+ {
+   "OBJECTID": 149,
+   "Name": "Dhekunu Thila (Stonefish Reef)",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.639769936,
+   "longitude": 72.7702911
+ },
+ {
+   "OBJECTID": 150,
+   "Name": "Angaga Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.635011014,
+   "longitude": 72.85642759
+ },
+ {
+   "OBJECTID": 151,
+   "Name": "Hurasdhoo Reef (Pineapple Reef)",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.664040438,
+   "longitude": 72.77600181
+ },
+ {
+   "OBJECTID": 152,
+   "Name": "Mandhoo Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.666419899,
+   "longitude": 72.70271441
+ },
+ {
+   "OBJECTID": 153,
+   "Name": "Bulhaalohi Reef",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.73590016,
+   "longitude": 72.73126794
+ },
+ {
+   "OBJECTID": 154,
+   "Name": "Bulhaalohi Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.751604603,
+   "longitude": 72.73126794
+ },
+ {
+   "OBJECTID": 155,
+   "Name": "Kalhuhadhihuraa Faru",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.79205544,
+   "longitude": 72.69510013
+ },
+ {
+   "OBJECTID": 156,
+   "Name": "Kalhuhadhihuraa Thila (Thundufushi Thila)",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.807283991,
+   "longitude": 72.70366619
+ },
+ {
+   "OBJECTID": 157,
+   "Name": "Moofushi Faru",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.881523174,
+   "longitude": 72.7031903
+ },
+ {
+   "OBJECTID": 158,
+   "Name": "Ukulhas Thila",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.271754779,
+   "longitude": 72.83596423
+ },
+ {
+   "OBJECTID": 159,
+   "Name": "Valigandu Kandu",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.318868107,
+   "longitude": 73.01156845
+ },
+ {
+   "OBJECTID": 160,
+   "Name": "Madivaru (Hammerhead Point)",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.263188719,
+   "longitude": 73.00062293
+ },
+ {
+   "OBJECTID": 161,
+   "Name": "Kuramathi Faru",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.255098552,
+   "longitude": 72.98729795
+ },
+ {
+   "OBJECTID": 162,
+   "Name": "Fushi Faru",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.231303942,
+   "longitude": 72.87308382
+ },
+ {
+   "OBJECTID": 163,
+   "Name": "Maaya Thila",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.09472288,
+   "longitude": 72.867849
+ },
+ {
+   "OBJECTID": 164,
+   "Name": "Bathala Thila",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.073307731,
+   "longitude": 72.95446138
+ },
+ {
+   "OBJECTID": 165,
+   "Name": "Halaveli Wreck",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.059982749,
+   "longitude": 72.90544449
+ },
+ {
+   "OBJECTID": 166,
+   "Name": "Kandholhudhoo Thila",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.018104236,
+   "longitude": 72.88355345
+ },
+ {
+   "OBJECTID": 167,
+   "Name": "Kandholhudhoo House Reef",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 3.99954444,
+   "longitude": 72.8802222
+ },
+ {
+   "OBJECTID": 168,
+   "Name": "Ellaidhoo Thila",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.021435481,
+   "longitude": 72.94875068
+ },
+ {
+   "OBJECTID": 169,
+   "Name": "Ellaidhoo  House Reef",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.004303362,
+   "longitude": 72.95398549
+ },
+ {
+   "OBJECTID": 170,
+   "Name": "Orimas Thila (Maaga Thila)",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 3.981460536,
+   "longitude": 72.95731674
+ },
+ {
+   "OBJECTID": 171,
+   "Name": "Mushimasmigili (Fish Head)",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 3.938630238,
+   "longitude": 72.93161856
+ },
+ {
+   "OBJECTID": 172,
+   "Name": "Himendhoo Thila",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 3.917215089,
+   "longitude": 72.72270188
+ },
+ {
+   "OBJECTID": 173,
+   "Name": "Fesdu Wreck",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 3.999068548,
+   "longitude": 72.79360982
+ },
+ {
+   "OBJECTID": 174,
+   "Name": "Maalhos Thila",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 3.996689087,
+   "longitude": 72.71032868
+ },
+ {
+   "OBJECTID": 175,
+   "Name": "Gangehi Kandu",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.214171823,
+   "longitude": 72.72888848
+ },
+ {
+   "OBJECTID": 176,
+   "Name": "Bathalaa kandu",
+   "Atoll": "BAA ATOLL",
+   "Latitude": 5.349888561,
+   "longitude": 73.08104871
+ },
+ {
+   "OBJECTID": 177,
+   "Name": "Milaidhoo House Reef",
+   "Atoll": "BAA ATOLL",
+   "Latitude": 5.272794024,
+   "longitude": 73.12673436
+ },
+ {
+   "OBJECTID": 178,
+   "Name": "The Shark Nursery",
+   "Atoll": "BAA ATOLL",
+   "Latitude": 5.226156588,
+   "longitude": 73.1728959
+ },
+ {
+   "OBJECTID": 179,
+   "Name": "Hirundhoo House Reef",
+   "Atoll": "BAA ATOLL",
+   "Latitude": 5.215211068,
+   "longitude": 73.1609986
+ },
+ {
+   "OBJECTID": 180,
+   "Name": "Kakani Thila",
+   "Atoll": "BAA ATOLL",
+   "Latitude": 5.186181644,
+   "longitude": 73.13577631
+ },
+ {
+   "OBJECTID": 181,
+   "Name": "Dhonisu Thila",
+   "Atoll": "BAA ATOLL",
+   "Latitude": 5.167621848,
+   "longitude": 73.13101739
+ },
+ {
+   "OBJECTID": 182,
+   "Name": "Faimini Bodu Thila",
+   "Atoll": "BAA ATOLL",
+   "Latitude": 5.170944369,
+   "longitude": 73.10800864
+ },
+ {
+   "OBJECTID": 183,
+   "Name": "Faimini Kuda Thila",
+   "Atoll": "BAA ATOLL",
+   "Latitude": 5.174762455,
+   "longitude": 73.09808161
+ },
+ {
+   "OBJECTID": 184,
+   "Name": "Dharavandhoo Thila",
+   "Atoll": "BAA ATOLL",
+   "Latitude": 5.149181281,
+   "longitude": 73.11908108
+ },
+ {
+   "OBJECTID": 185,
+   "Name": "Horubadhoo Thila",
+   "Atoll": "BAA ATOLL",
+   "Latitude": 5.147940404,
+   "longitude": 73.03346052
+ },
+ {
+   "OBJECTID": 186,
+   "Name": "Kunfunadhoo Thila",
+   "Atoll": "BAA ATOLL",
+   "Latitude": 5.118350241,
+   "longitude": 73.07087775
+ },
+ {
+   "OBJECTID": 187,
+   "Name": "Fehigili",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.55960192,
+   "longitude": 73.47785548
+ },
+ {
+   "OBJECTID": 188,
+   "Name": "Kanuhuraa Kandu",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.508681455,
+   "longitude": 73.51402329
+ },
+ {
+   "OBJECTID": 189,
+   "Name": "Fushifaru Inside Reef (Table Reef)",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.503922533,
+   "longitude": 73.51687864
+ },
+ {
+   "OBJECTID": 190,
+   "Name": "Fushifaru Kandu",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.494880581,
+   "longitude": 73.52687238
+ },
+ {
+   "OBJECTID": 191,
+   "Name": "Fushifaru Thila",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.488693982,
+   "longitude": 73.51973399
+ },
+ {
+   "OBJECTID": 192,
+   "Name": "Felivaru Kandu",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.489645767,
+   "longitude": 73.39219488
+ },
+ {
+   "OBJECTID": 193,
+   "Name": "The Graveyard",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.479176138,
+   "longitude": 73.39790559
+ },
+ {
+   "OBJECTID": 194,
+   "Name": "Hinnavaru Kandu",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.502494856,
+   "longitude": 73.41313414
+ },
+ {
+   "OBJECTID": 195,
+   "Name": "Narcola Giri",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.509633239,
+   "longitude": 73.44835016
+ },
+ {
+   "OBJECTID": 196,
+   "Name": "Kuredu Ocean Reef",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.556270675,
+   "longitude": 73.46738585
+ },
+ {
+   "OBJECTID": 197,
+   "Name": "Raafushi Ocean Point",
+   "Atoll": "NOONU ATOLL",
+   "Latitude": 5.641931271,
+   "longitude": 73.2998718
+ },
+ {
+   "OBJECTID": 198,
+   "Name": "Aquarium",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.84205,
+   "longitude": 73.01118333
+ },
+ {
+   "OBJECTID": 199,
+   "Name": "Beenafushi Beyru",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.930733333,
+   "longitude": 73.13025
+ },
+ {
+   "OBJECTID": 200,
+   "Name": "Dhonakulhi Kandu",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.842783333,
+   "longitude": 73.04856667
+ },
+ {
+   "OBJECTID": 201,
+   "Name": "Dhonakulhi North",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.852516667,
+   "longitude": 73.05115
+ },
+ {
+   "OBJECTID": 202,
+   "Name": "Filladhoo wreck",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.870616667,
+   "longitude": 73.23491667
+ },
+ {
+   "OBJECTID": 203,
+   "Name": "Huraa Faru",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.8355,
+   "longitude": 72.94503333
+ },
+ {
+   "OBJECTID": 204,
+   "Name": "Huvahandhoo Corner",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.9479,
+   "longitude": 72.90656667
+ },
+ {
+   "OBJECTID": 205,
+   "Name": "Khahanbu Thila",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.803383333,
+   "longitude": 72.97453333
+ },
+ {
+   "OBJECTID": 206,
+   "Name": "Mulidhoo South",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.829116667,
+   "longitude": 73.01375
+ },
+ {
+   "OBJECTID": 207,
+   "Name": "Sunset Faru",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.834616667,
+   "longitude": 73.04653333
+ },
+ {
+   "OBJECTID": 208,
+   "Name": "Thakandhoo Corner",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 6.838133333,
+   "longitude": 72.99676667
+ },
+ {
+   "OBJECTID": 209,
+   "Name": "Thuraakunu North",
+   "Atoll": "HAA ALIFU ATOLL",
+   "Latitude": 7.106983333,
+   "longitude": 72.90693333
+ },
+ {
+   "OBJECTID": 210,
+   "Name": "Dhon Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.6026,
+   "longitude": 72.95571667
+ },
+ {
+   "OBJECTID": 211,
+   "Name": "Galum Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.567866667,
+   "longitude": 72.94335
+ },
+ {
+   "OBJECTID": 212,
+   "Name": "Heaven and Hell",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.731533333,
+   "longitude": 73.03641667
+ },
+ {
+   "OBJECTID": 213,
+   "Name": "Vaikaramuraidhoo Thila",
+   "Atoll": "HAA DHAALU ATOLL",
+   "Latitude": 6.537366667,
+   "longitude": 72.91376667
+ },
+ {
+   "OBJECTID": 214,
+   "Name": "Eskadhoo North",
+   "Atoll": "SHAVIYANI ATOLL",
+   "Latitude": 6.08025,
+   "longitude": 73.28513333
+ },
+ {
+   "OBJECTID": 215,
+   "Name": "Goidhoo Corner",
+   "Atoll": "SHAVIYANI ATOLL",
+   "Latitude": 6.432166667,
+   "longitude": 72.94076667
+ },
+ {
+   "OBJECTID": 216,
+   "Name": "Hirubandhoo North",
+   "Atoll": "SHAVIYANI ATOLL",
+   "Latitude": 6.190083333,
+   "longitude": 73.24728333
+ },
+ {
+   "OBJECTID": 217,
+   "Name": "Huras Thila",
+   "Atoll": "SHAVIYANI ATOLL",
+   "Latitude": 6.135233333,
+   "longitude": 73.0811
+ },
+ {
+   "OBJECTID": 218,
+   "Name": "Kilissa Beyru",
+   "Atoll": "SHAVIYANI ATOLL",
+   "Latitude": 6.120016667,
+   "longitude": 73.0198
+ },
+ {
+   "OBJECTID": 219,
+   "Name": "Huivani Thila",
+   "Atoll": "NOONU ATOLL",
+   "Latitude": 5.91565,
+   "longitude": 73.35761667
+ },
+ {
+   "OBJECTID": 220,
+   "Name": "Irufushi House Reef",
+   "Atoll": "NOONU ATOLL",
+   "Latitude": 5.739083333,
+   "longitude": 73.32251667
+ },
+ {
+   "OBJECTID": 221,
+   "Name": "Raafushi Caves",
+   "Atoll": "NOONU ATOLL",
+   "Latitude": 5.648933333,
+   "longitude": 73.30355
+ },
+ {
+   "OBJECTID": 222,
+   "Name": "Orimas Thila",
+   "Atoll": "NOONU ATOLL",
+   "Latitude": 5.848333333,
+   "longitude": 73.25298333
+ },
+ {
+   "OBJECTID": 223,
+   "Name": "7 Blocks",
+   "Atoll": "RAA ATOLL",
+   "Latitude": 5.507383333,
+   "longitude": 72.84995
+ },
+ {
+   "OBJECTID": 224,
+   "Name": "Alifushi",
+   "Atoll": "RAA ATOLL",
+   "Latitude": 5.9607,
+   "longitude": 72.95575
+ },
+ {
+   "OBJECTID": 225,
+   "Name": "Beriyan Thila",
+   "Atoll": "RAA ATOLL",
+   "Latitude": 5.416966667,
+   "longitude": 73.0047
+ },
+ {
+   "OBJECTID": 226,
+   "Name": "Faaru Fushi",
+   "Atoll": "RAA ATOLL",
+   "Latitude": 5.764516667,
+   "longitude": 72.96565
+ },
+ {
+   "OBJECTID": 227,
+   "Name": "Ifuru Kuda Thila",
+   "Atoll": "RAA ATOLL",
+   "Latitude": 5.719616667,
+   "longitude": 73.02273333
+ },
+ {
+   "OBJECTID": 228,
+   "Name": "Kudarhulhaadhoo Thila",
+   "Atoll": "RAA ATOLL",
+   "Latitude": 5.401033333,
+   "longitude": 72.89953333
+ },
+ {
+   "OBJECTID": 229,
+   "Name": "Vaadhoo Thila",
+   "Atoll": "RAA ATOLL",
+   "Latitude": 5.400666667,
+   "longitude": 72.98235
+ },
+ {
+   "OBJECTID": 230,
+   "Name": "12 Degrees",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 5.0614,
+   "longitude": 72.9173
+ },
+ {
+   "OBJECTID": 231,
+   "Name": "Anga Faru",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 5.175283333,
+   "longitude": 73.09941667
+ },
+ {
+   "OBJECTID": 232,
+   "Name": "Bathalaa",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 5.3471,
+   "longitude": 73.07693333
+ },
+ {
+   "OBJECTID": 233,
+   "Name": "Blue Hole",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 5.2355,
+   "longitude": 73.10653333
+ },
+ {
+   "OBJECTID": 234,
+   "Name": "Carcharinus Sorrah",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 4.840383333,
+   "longitude": 72.87596667
+ },
+ {
+   "OBJECTID": 235,
+   "Name": "Dhigali Haa",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 5.14745,
+   "longitude": 73.03963333
+ },
+ {
+   "OBJECTID": 236,
+   "Name": "Dhigu Thila",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 5.1744,
+   "longitude": 73.1073
+ },
+ {
+   "OBJECTID": 237,
+   "Name": "Dhonfanu Thila",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 5.172,
+   "longitude": 73.11596667
+ },
+ {
+   "OBJECTID": 238,
+   "Name": "Fares Manta Point",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 5.246883333,
+   "longitude": 72.85045
+ },
+ {
+   "OBJECTID": 239,
+   "Name": "Fares Thila",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 5.2221,
+   "longitude": 72.86631667
+ },
+ {
+   "OBJECTID": 240,
+   "Name": "Goidhoo Kandu",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 4.81415,
+   "longitude": 72.89135
+ },
+ {
+   "OBJECTID": 241,
+   "Name": "Goidhoo West",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 4.833333333,
+   "longitude": 72.85155
+ },
+ {
+   "OBJECTID": 242,
+   "Name": "Hanifaru Lagoon",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 5.172766667,
+   "longitude": 73.14731667
+ },
+ {
+   "OBJECTID": 243,
+   "Name": "Hirundhoo",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 5.208833333,
+   "longitude": 73.15801667
+ },
+ {
+   "OBJECTID": 244,
+   "Name": "Kihadhuffaru Thila",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 5.189533333,
+   "longitude": 73.14248333
+ },
+ {
+   "OBJECTID": 245,
+   "Name": "Maaddoo Giri",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 5.092766667,
+   "longitude": 73.0524
+ },
+ {
+   "OBJECTID": 246,
+   "Name": "Maalhos",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 5.133916667,
+   "longitude": 73.10505
+ },
+ {
+   "OBJECTID": 247,
+   "Name": "Maavaru Cave",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 5.152316667,
+   "longitude": 72.84775
+ },
+ {
+   "OBJECTID": 248,
+   "Name": "Maavaru Thila",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 5.151433333,
+   "longitude": 72.8608
+ },
+ {
+   "OBJECTID": 249,
+   "Name": "Milaidhoo Caves",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 5.270416667,
+   "longitude": 73.1282
+ },
+ {
+   "OBJECTID": 250,
+   "Name": "Muthaafushi Thila",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 5.060883333,
+   "longitude": 72.8898
+ },
+ {
+   "OBJECTID": 251,
+   "Name": "Nelivaru Haa",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 5.126066667,
+   "longitude": 73.07563333
+ },
+ {
+   "OBJECTID": 252,
+   "Name": "Nelivaru Thila",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 5.1241,
+   "longitude": 73.07623333
+ },
+ {
+   "OBJECTID": 253,
+   "Name": "Nelivarufinolhu Beyru",
+   "Atoll": "BAA  ATOLL",
+   "Latitude": 5.121083333,
+   "longitude": 73.10195
+ },
+ {
+   "OBJECTID": 254,
+   "Name": "Fathima Kandu",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.454533333,
+   "longitude": 73.58856667
+ },
+ {
+   "OBJECTID": 255,
+   "Name": "Fushifaru Corner",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.496433333,
+   "longitude": 73.52261667
+ },
+ {
+   "OBJECTID": 256,
+   "Name": "Fushifaru Giri",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.4849,
+   "longitude": 73.51656667
+ },
+ {
+   "OBJECTID": 257,
+   "Name": "Hani Kandu",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.415,
+   "longitude": 73.34933333
+ },
+ {
+   "OBJECTID": 258,
+   "Name": "Kuredhoo Caves",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.552416667,
+   "longitude": 73.46303333
+ },
+ {
+   "OBJECTID": 259,
+   "Name": "Kuredhoo Kandu",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.5584,
+   "longitude": 73.47796667
+ },
+ {
+   "OBJECTID": 260,
+   "Name": "Lhohi Kandu",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.322766667,
+   "longitude": 73.4695
+ },
+ {
+   "OBJECTID": 261,
+   "Name": "Madivaru Kandu",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.473383333,
+   "longitude": 73.37531667
+ },
+ {
+   "OBJECTID": 262,
+   "Name": "Naifaru Kandu",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.457066667,
+   "longitude": 73.36495
+ },
+ {
+   "OBJECTID": 263,
+   "Name": "Shipyard",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.483133333,
+   "longitude": 73.3979
+ },
+ {
+   "OBJECTID": 264,
+   "Name": "The Wall",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.51975,
+   "longitude": 73.43835
+ },
+ {
+   "OBJECTID": 265,
+   "Name": "Vavvaru Kandu",
+   "Atoll": "LHAVIYANI ATOLL",
+   "Latitude": 5.42605,
+   "longitude": 73.3536
+ },
+ {
+   "OBJECTID": 266,
+   "Name": "Colosseum",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.369166667,
+   "longitude": 73.65741667
+ },
+ {
+   "OBJECTID": 267,
+   "Name": "Aquarium",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.346166667,
+   "longitude": 73.61726667
+ },
+ {
+   "OBJECTID": 268,
+   "Name": "Feydhoo Caves",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.2157,
+   "longitude": 73.48273333
+ },
+ {
+   "OBJECTID": 269,
+   "Name": "Furana",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.2531,
+   "longitude": 73.5482
+ },
+ {
+   "OBJECTID": 270,
+   "Name": "Giraavaru Corner",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.20255,
+   "longitude": 73.39231667
+ },
+ {
+   "OBJECTID": 271,
+   "Name": "Hembadhoo Wreck",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.48185,
+   "longitude": 73.39498333
+ },
+ {
+   "OBJECTID": 272,
+   "Name": "HP Reef",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.313983333,
+   "longitude": 73.57846667
+ },
+ {
+   "OBJECTID": 273,
+   "Name": "Kikki Reef",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.174366667,
+   "longitude": 73.46031667
+ },
+ {
+   "OBJECTID": 274,
+   "Name": "Lankan Caves",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.27935,
+   "longitude": 73.55216667
+ },
+ {
+   "OBJECTID": 275,
+   "Name": "Okobe Thila",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.2954,
+   "longitude": 73.51371667
+ },
+ {
+   "OBJECTID": 276,
+   "Name": "Prisca",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.48665,
+   "longitude": 73.69255
+ },
+ {
+   "OBJECTID": 277,
+   "Name": "Rasfari Noerth Corner",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.44155,
+   "longitude": 73.3629
+ },
+ {
+   "OBJECTID": 278,
+   "Name": "Sunlight Thila",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.250883333,
+   "longitude": 73.5342
+ },
+ {
+   "OBJECTID": 279,
+   "Name": "Thulhaagiri Kandu",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.527983333,
+   "longitude": 73.65056667
+ },
+ {
+   "OBJECTID": 280,
+   "Name": "Voshimas Thila",
+   "Atoll": "NORTH MALE ATOLL",
+   "Latitude": 4.468033333,
+   "longitude": 73.3712
+ },
+ {
+   "OBJECTID": 281,
+   "Name": "Bushi Corner",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.977433333,
+   "longitude": 73.51005
+ },
+ {
+   "OBJECTID": 282,
+   "Name": "Cocoa Corner",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.908933333,
+   "longitude": 73.4817
+ },
+ {
+   "OBJECTID": 283,
+   "Name": "Embudu Canyon",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 4.125433333,
+   "longitude": 73.51013333
+ },
+ {
+   "OBJECTID": 284,
+   "Name": "Embudu House Reef",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 4.082366667,
+   "longitude": 73.5103
+ },
+ {
+   "OBJECTID": 285,
+   "Name": "Embudu Kandu",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 4.08835,
+   "longitude": 73.53385
+ },
+ {
+   "OBJECTID": 286,
+   "Name": "Gulhi Thila/Dhigu Thila",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.982383333,
+   "longitude": 73.50676667
+ },
+ {
+   "OBJECTID": 287,
+   "Name": "Guraidhoo Manta Point",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.895383333,
+   "longitude": 73.4587
+ },
+ {
+   "OBJECTID": 288,
+   "Name": "Kandooma Beyru",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.89815,
+   "longitude": 73.47356667
+ },
+ {
+   "OBJECTID": 289,
+   "Name": "Kandoomaa Caves",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.90385,
+   "longitude": 73.47876667
+ },
+ {
+   "OBJECTID": 290,
+   "Name": "Kuda Giri Wreck",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.9732,
+   "longitude": 73.49116667
+ },
+ {
+   "OBJECTID": 291,
+   "Name": "Miyaru Faru",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.989033333,
+   "longitude": 73.52003333
+ },
+ {
+   "OBJECTID": 292,
+   "Name": "Raanalhi Faru",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.907383333,
+   "longitude": 73.35438333
+ },
+ {
+   "OBJECTID": 293,
+   "Name": "Ranikan",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.810566667,
+   "longitude": 73.38225
+ },
+ {
+   "OBJECTID": 294,
+   "Name": "Sultan Reef",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.9576,
+   "longitude": 73.48913333
+ },
+ {
+   "OBJECTID": 295,
+   "Name": "Vaadhoo",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 4.128416667,
+   "longitude": 73.45566667
+ },
+ {
+   "OBJECTID": 296,
+   "Name": "Velassaru caves",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 4.1248,
+   "longitude": 73.43498333
+ },
+ {
+   "OBJECTID": 297,
+   "Name": "Vaagali Caves",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.950483333,
+   "longitude": 73.35451667
+ },
+ {
+   "OBJECTID": 298,
+   "Name": "Villivaru Giri",
+   "Atoll": "SOUTH MALE ATOLL",
+   "Latitude": 3.903666667,
+   "longitude": 73.44448333
+ },
+ {
+   "OBJECTID": 299,
+   "Name": "Bathalaamaagaa Kanthila",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.059583333,
+   "longitude": 72.95618333
+ },
+ {
+   "OBJECTID": 300,
+   "Name": "Bathala House Reef ",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.0695,
+   "longitude": 72.94391667
+ },
+ {
+   "OBJECTID": 301,
+   "Name": "Bodu Thila",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.041966667,
+   "longitude": 72.95278333
+ },
+ {
+   "OBJECTID": 302,
+   "Name": "Dhonkalo Manta Point",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 3.969683333,
+   "longitude": 72.71311667
+ },
+ {
+   "OBJECTID": 303,
+   "Name": "Gangehi Lagoon ",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.253866667,
+   "longitude": 72.77918333
+ },
+ {
+   "OBJECTID": 304,
+   "Name": "Gangehi North Kandu",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.279266667,
+   "longitude": 72.78041667
+ },
+ {
+   "OBJECTID": 305,
+   "Name": "Hafsa Thila",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.128783333,
+   "longitude": 72.83826667
+ },
+ {
+   "OBJECTID": 306,
+   "Name": "Kandholhudhoo Giri",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.01845,
+   "longitude": 72.88155
+ },
+ {
+   "OBJECTID": 307,
+   "Name": "Kari Beyru Thila",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.095383333,
+   "longitude": 72.94925
+ },
+ {
+   "OBJECTID": 308,
+   "Name": "Maayaafushi Lagoon",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.076016667,
+   "longitude": 72.8821
+ },
+ {
+   "OBJECTID": 309,
+   "Name": "Miyaruga",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.169366667,
+   "longitude": 72.75518333
+ },
+ {
+   "OBJECTID": 310,
+   "Name": "RanFaru",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.022333333,
+   "longitude": 72.72228333
+ },
+ {
+   "OBJECTID": 311,
+   "Name": "Rasdhoo Blue",
+   "Atoll": "ALIFU ALIFU ATOLL",
+   "Latitude": 4.263316667,
+   "longitude": 72.9996
+ },
+ {
+   "OBJECTID": 312,
+   "Name": "7th Heaven",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.565483333,
+   "longitude": 72.94411667
+ },
+ {
+   "OBJECTID": 313,
+   "Name": "Al Karim",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.6195,
+   "longitude": 72.94778333
+ },
+ {
+   "OBJECTID": 314,
+   "Name": "Ali Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.631083333,
+   "longitude": 72.92081667
+ },
+ {
+   "OBJECTID": 315,
+   "Name": "Atabu Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.86255,
+   "longitude": 72.79495
+ },
+ {
+   "OBJECTID": 316,
+   "Name": "Bapoli Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.6358,
+   "longitude": 72.93306667
+ },
+ {
+   "OBJECTID": 317,
+   "Name": "Beyru Gatho Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.570466667,
+   "longitude": 72.94511667
+ },
+ {
+   "OBJECTID": 318,
+   "Name": "Bodu Finonlhu Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.486883333,
+   "longitude": 72.76131667
+ },
+ {
+   "OBJECTID": 319,
+   "Name": "Broken Rock",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.555866667,
+   "longitude": 72.937
+ },
+ {
+   "OBJECTID": 320,
+   "Name": "Camel Rock",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.687066667,
+   "longitude": 72.96201667
+ },
+ {
+   "OBJECTID": 321,
+   "Name": "Coral Garden",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.680466667,
+   "longitude": 72.95915
+ },
+ {
+   "OBJECTID": 322,
+   "Name": "Dega Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.844633333,
+   "longitude": 72.75045
+ },
+ {
+   "OBJECTID": 323,
+   "Name": "Dhangethi Corner",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.57425,
+   "longitude": 72.94803333
+ },
+ {
+   "OBJECTID": 324,
+   "Name": "Dhangethi North Corner",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.611933333,
+   "longitude": 72.96031667
+ },
+ {
+   "OBJECTID": 325,
+   "Name": "Dhihdhoo Corner",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.475316667,
+   "longitude": 72.86938333
+ },
+ {
+   "OBJECTID": 326,
+   "Name": "Diffushi Beyru",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.4678,
+   "longitude": 72.82381667
+ },
+ {
+   "OBJECTID": 327,
+   "Name": "Dhigurah Arches",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.542216667,
+   "longitude": 72.92255
+ },
+ {
+   "OBJECTID": 328,
+   "Name": "Dhigurah Beyru",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.53505,
+   "longitude": 72.93171667
+ },
+ {
+   "OBJECTID": 329,
+   "Name": "Dhigurah Lagoon",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.537666667,
+   "longitude": 72.9224
+ },
+ {
+   "OBJECTID": 330,
+   "Name": "Dhihdhoo Finolhu Beyru",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.495133333,
+   "longitude": 72.9006
+ },
+ {
+   "OBJECTID": 331,
+   "Name": "Five rocks",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.568883333,
+   "longitude": 72.94113333
+ },
+ {
+   "OBJECTID": 332,
+   "Name": "Hithi Faru Beyru",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.662133333,
+   "longitude": 72.97416667
+ },
+ {
+   "OBJECTID": 333,
+   "Name": "Hithi Faru Ethere",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.6634,
+   "longitude": 72.96491667
+ },
+ {
+   "OBJECTID": 334,
+   "Name": "Hudhu Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.569666667,
+   "longitude": 72.9402
+ },
+ {
+   "OBJECTID": 335,
+   "Name": "Fuvamulah House Reef",
+   "Atoll": "GNAVIYANI  ATOLL",
+   "Latitude": -0.294166667,
+   "longitude": 73.43027778
+ },
+ {
+   "OBJECTID": 336,
+   "Name": "Fuvahmulah North/ Shazna Faru",
+   "Atoll": "GNAVIYANI  ATOLL",
+   "Latitude": -0.278333333,
+   "longitude": 73.41277778
+ },
+ {
+   "OBJECTID": 337,
+   "Name": "Huruvalhi (Manta Feeding Station)",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.68155,
+   "longitude": 72.9626
+ },
+ {
+   "OBJECTID": 338,
+   "Name": "Jackfish Chanel",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.6774,
+   "longitude": 72.9758
+ },
+ {
+   "OBJECTID": 339,
+   "Name": "Kuda Giri",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.624116667,
+   "longitude": 72.87993333
+ },
+ {
+   "OBJECTID": 340,
+   "Name": "Kuda Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.633116667,
+   "longitude": 72.93831667
+ },
+ {
+   "OBJECTID": 341,
+   "Name": "Kudarah Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.5591,
+   "longitude": 72.92405
+ },
+ {
+   "OBJECTID": 342,
+   "Name": "Kudima Wreck",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.5958,
+   "longitude": 72.88391667
+ },
+ {
+   "OBJECTID": 343,
+   "Name": "Lucky Rock",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.655933333,
+   "longitude": 72.93763333
+ },
+ {
+   "OBJECTID": 344,
+   "Name": "Maamigili Beyru",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.467566667,
+   "longitude": 72.83523333
+ },
+ {
+   "OBJECTID": 345,
+   "Name": "Miyaru Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.63235,
+   "longitude": 72.91895
+ },
+ {
+   "OBJECTID": 346,
+   "Name": "Nu Giri",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.636683333,
+   "longitude": 72.93083333
+ },
+ {
+   "OBJECTID": 347,
+   "Name": "Nurse Shark Point",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.694466667,
+   "longitude": 72.98033333
+ },
+ {
+   "OBJECTID": 348,
+   "Name": "Omadhoo Bodu Giri",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.7842,
+   "longitude": 72.96483333
+ },
+ {
+   "OBJECTID": 349,
+   "Name": "Omadhoo North Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.794966667,
+   "longitude": 72.9653
+ },
+ {
+   "OBJECTID": 350,
+   "Name": "Orimas Faru",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.6219,
+   "longitude": 72.9637
+ },
+ {
+   "OBJECTID": 351,
+   "Name": "Panettone",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.800366667,
+   "longitude": 72.71195
+ },
+ {
+   "OBJECTID": 352,
+   "Name": "Rangali Madivaru",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.58685,
+   "longitude": 72.71851667
+ },
+ {
+   "OBJECTID": 353,
+   "Name": "Ranveli Kuda Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.615433333,
+   "longitude": 72.95776667
+ },
+ {
+   "OBJECTID": 354,
+   "Name": "Ranveli Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.615733333,
+   "longitude": 72.96085
+ },
+ {
+   "OBJECTID": 355,
+   "Name": "Rehi Reef",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.729766667,
+   "longitude": 72.76055
+ },
+ {
+   "OBJECTID": 356,
+   "Name": "Sicuranza Reef",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.630533333,
+   "longitude": 72.94338333
+ },
+ {
+   "OBJECTID": 357,
+   "Name": "Sun Island Beyru",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.471533333,
+   "longitude": 72.79755
+ },
+ {
+   "OBJECTID": 358,
+   "Name": "Thala Faru",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.6801,
+   "longitude": 72.95348333
+ },
+ {
+   "OBJECTID": 359,
+   "Name": "Thinfushi Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.5571,
+   "longitude": 72.93545
+ },
+ {
+   "OBJECTID": 360,
+   "Name": "Vilamendhoo Caves",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.63375,
+   "longitude": 72.9659
+ },
+ {
+   "OBJECTID": 361,
+   "Name": "Vilamendhoo House Reef",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.63325,
+   "longitude": 72.95808333
+ },
+ {
+   "OBJECTID": 362,
+   "Name": "Fuvahmulah South ",
+   "Atoll": "GNAVIYANI  ATOLL",
+   "Latitude": -0.318333333,
+   "longitude": 73.44472222
+ },
+ {
+   "OBJECTID": 363,
+   "Name": "Fuvahmulah South West",
+   "Atoll": "GNAVIYANI  ATOLL",
+   "Latitude": -0.320555556,
+   "longitude": 73.43166667
+ },
+ {
+   "OBJECTID": 364,
+   "Name": "Bodu/Kuda Hoholha",
+   "Atoll": "SEENU ATOLL",
+   "Latitude": -0.589722222,
+   "longitude": 73.09388889
+ },
+ {
+   "OBJECTID": 365,
+   "Name": "Bushi West",
+   "Atoll": "SEENU ATOLL",
+   "Latitude": -0.612222222,
+   "longitude": 73.13555556
+ },
+ {
+   "OBJECTID": 366,
+   "Name": "Demon Corner (Koattey Beyru)",
+   "Atoll": "SEENU ATOLL",
+   "Latitude": -0.576111111,
+   "longitude": 73.08972222
+ },
+ {
+   "OBJECTID": 367,
+   "Name": "Gan House Reef",
+   "Atoll": "SEENU ATOLL",
+   "Latitude": -0.688888889,
+   "longitude": 73.16194444
+ },
+ {
+   "OBJECTID": 368,
+   "Name": "Hithadhoo Beyru",
+   "Atoll": "SEENU ATOLL",
+   "Latitude": -0.584166667,
+   "longitude": 73.07222222
+ },
+ {
+   "OBJECTID": 369,
+   "Name": "Maa Beyru",
+   "Atoll": "SEENU ATOLL",
+   "Latitude": -0.602222222,
+   "longitude": 73.15972222
+ },
+ {
+   "OBJECTID": 370,
+   "Name": "Maa Corner Manta Point",
+   "Atoll": "SEENU ATOLL",
+   "Latitude": -0.610833333,
+   "longitude": 73.15333333
+ },
+ {
+   "OBJECTID": 371,
+   "Name": "Maa Kandu Corner",
+   "Atoll": "SEENU ATOLL",
+   "Latitude": -0.6075,
+   "longitude": 73.15305556
+ },
+ {
+   "OBJECTID": 372,
+   "Name": "Miyaru Faru",
+   "Atoll": "SEENU ATOLL",
+   "Latitude": -0.578611111,
+   "longitude": 73.23944444
+ },
+ {
+   "OBJECTID": 373,
+   "Name": "Turtle Point",
+   "Atoll": "SEENU ATOLL",
+   "Latitude": -0.699722222,
+   "longitude": 73.13888889
+ },
+ {
+   "OBJECTID": 374,
+   "Name": "Vilamendhoo Thila",
+   "Atoll": "ALIFU DHAALU ATOLL",
+   "Latitude": 3.633716667,
+   "longitude": 72.96691667
+ },
+ {
+   "OBJECTID": 375,
+   "Name": "Alimatha House Reef",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.5909,
+   "longitude": 73.49791667
+ },
+ {
+   "OBJECTID": 376,
+   "Name": "Alimatha Kandu",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.5917,
+   "longitude": 73.50258333
+ },
+ {
+   "OBJECTID": 377,
+   "Name": "Dhiggiri Kandu",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.64795,
+   "longitude": 73.50475
+ },
+ {
+   "OBJECTID": 378,
+   "Name": "fahumi Giri",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.410533333,
+   "longitude": 73.59288333
+ },
+ {
+   "OBJECTID": 379,
+   "Name": "Fottheyo",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.488683333,
+   "longitude": 73.6987
+ },
+ {
+   "OBJECTID": 380,
+   "Name": "Fulidhoo Caves",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.6833,
+   "longitude": 73.4169
+ },
+ {
+   "OBJECTID": 381,
+   "Name": "Fushi Kandu",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.466716667,
+   "longitude": 73.65611667
+ },
+ {
+   "OBJECTID": 382,
+   "Name": "Golden wall",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.4469,
+   "longitude": 73.59971667
+ },
+ {
+   "OBJECTID": 383,
+   "Name": "Ikoga Giri",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.592316667,
+   "longitude": 73.45935
+ },
+ {
+   "OBJECTID": 384,
+   "Name": "Keyodhoo kandu",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.463416667,
+   "longitude": 73.55741667
+ },
+ {
+   "OBJECTID": 385,
+   "Name": "Kuda Kandu",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.4571,
+   "longitude": 73.56301667
+ },
+ {
+   "OBJECTID": 386,
+   "Name": "Kunavashi Corner",
+   "Atoll": "VAAVU ATOLL",
+   "Latitude": 3.637683333,
+   "longitude": 73.35906667
+ },
+ {
+   "OBJECTID": 387,
+   "Name": "Ashaa Thila",
+   "Atoll": "MEEMU ATOLL",
+   "Latitude": 2.907766667,
+   "longitude": 73.55456667
+ },
+ {
+   "OBJECTID": 388,
+   "Name": "Hakura Thila",
+   "Atoll": "MEEMU ATOLL",
+   "Latitude": 2.945483333,
+   "longitude": 73.54688333
+ },
+ {
+   "OBJECTID": 389,
+   "Name": "Kurali Manta Point",
+   "Atoll": "MEEMU ATOLL",
+   "Latitude": 2.76105,
+   "longitude": 73.383
+ },
+ {
+   "OBJECTID": 390,
+   "Name": "Nenge Kandu",
+   "Atoll": "MEEMU ATOLL",
+   "Latitude": 2.864566667,
+   "longitude": 73.37528333
+ },
+ {
+   "OBJECTID": 391,
+   "Name": "Muli Corner",
+   "Atoll": "MEEMU ATOLL",
+   "Latitude": 2.926066667,
+   "longitude": 73.5905
+ },
+ {
+   "OBJECTID": 392,
+   "Name": "Raabandhihuraa Kandu",
+   "Atoll": "MEEMU ATOLL",
+   "Latitude": 3.0935,
+   "longitude": 73.37451667
+ },
+ {
+   "OBJECTID": 393,
+   "Name": "Thuvaru Kandu",
+   "Atoll": "MEEMU ATOLL",
+   "Latitude": 2.888733333,
+   "longitude": 73.37568333
+ },
+ {
+   "OBJECTID": 394,
+   "Name": "Vanhuravalhi Kandu",
+   "Atoll": "MEEMU ATOLL",
+   "Latitude": 3.144683333,
+   "longitude": 73.52445
+ },
+ {
+   "OBJECTID": 395,
+   "Name": "Veyvah Corner",
+   "Atoll": "MEEMU ATOLL",
+   "Latitude": 2.941566667,
+   "longitude": 73.59805
+ },
+ {
+   "OBJECTID": 396,
+   "Name": "Barracuda Corner",
+   "Atoll": "FAAFU ATOLL",
+   "Latitude": 3.135566667,
+   "longitude": 73.02988333
+ },
+ {
+   "OBJECTID": 397,
+   "Name": "Filitheyo Thila",
+   "Atoll": "FAAFU ATOLL",
+   "Latitude": 3.202916667,
+   "longitude": 73.04008333
+ },
+ {
+   "OBJECTID": 398,
+   "Name": "Himithi Corner",
+   "Atoll": "FAAFU ATOLL",
+   "Latitude": 3.236083333,
+   "longitude": 72.81866667
+ },
+ {
+   "OBJECTID": 399,
+   "Name": "Jumping Jack",
+   "Atoll": "FAAFU ATOLL",
+   "Latitude": 3.286783333,
+   "longitude": 72.99486667
+ },
+ {
+   "OBJECTID": 400,
+   "Name": "Kudafalhu Manta Point",
+   "Atoll": "FAAFU ATOLL",
+   "Latitude": 3.14175,
+   "longitude": 72.85998333
+ },
+ {
+   "OBJECTID": 401,
+   "Name": "Lighthouse Chanel",
+   "Atoll": "FAAFU ATOLL",
+   "Latitude": 3.269366667,
+   "longitude": 73.00587
+ },
+ {
+   "OBJECTID": 402,
+   "Name": "Seven Stingrays",
+   "Atoll": "FAAFU ATOLL",
+   "Latitude": 3.235983333,
+   "longitude": 73.03243333
+ },
+ {
+   "OBJECTID": 403,
+   "Name": "Kanney Corner",
+   "Atoll": "FAAFU ATOLL",
+   "Latitude": 2.922433333,
+   "longitude": 73.02858333
+ },
+ {
+   "OBJECTID": 404,
+   "Name": "Vaanee Kandu",
+   "Atoll": "FAAFU ATOLL",
+   "Latitude": 2.726966667,
+   "longitude": 73.00995
+ },
+ {
+   "OBJECTID": 405,
+   "Name": "Velavaru Thila",
+   "Atoll": "FAAFU ATOLL",
+   "Latitude": 2.967133333,
+   "longitude": 73.02276667
+ },
+ {
+   "OBJECTID": 406,
+   "Name": "Vilu Reef House Reef",
+   "Atoll": "FAAFU ATOLL",
+   "Latitude": 3.002383333,
+   "longitude": 73.00153333
+ },
+ {
+   "OBJECTID": 407,
+   "Name": "Dhifushi",
+   "Atoll": "THAA ATOLL",
+   "Latitude": 2.521283333,
+   "longitude": 73.22963333
+ },
+ {
+   "OBJECTID": 408,
+   "Name": "Dhiyamigili Corner",
+   "Atoll": "THAA ATOLL",
+   "Latitude": 2.335133333,
+   "longitude": 73.33721667
+ },
+ {
+   "OBJECTID": 409,
+   "Name": "Maa Kandu",
+   "Atoll": "THAA ATOLL",
+   "Latitude": 2.528516667,
+   "longitude": 72.9676
+ },
+ {
+   "OBJECTID": 410,
+   "Name": "Olhugiri Kandu",
+   "Atoll": "THAA ATOLL",
+   "Latitude": 2.508216667,
+   "longitude": 73.26386667
+ },
+ {
+   "OBJECTID": 411,
+   "Name": "Vilufushi Beyru",
+   "Atoll": "THAA ATOLL",
+   "Latitude": 2.51435,
+   "longitude": 73.30406667
+ },
+ {
+   "OBJECTID": 412,
+   "Name": "Whale Shark Point",
+   "Atoll": "THAA ATOLL",
+   "Latitude": 2.393716667,
+   "longitude": 73.3502
+ },
+ {
+   "OBJECTID": 413,
+   "Name": "Fushi Kandu",
+   "Atoll": "LAAMU ATOLL",
+   "Latitude": 2.038816667,
+   "longitude": 73.53631667
+ },
+ {
+   "OBJECTID": 414,
+   "Name": "Guraidhoo Kandu",
+   "Atoll": "LAAMU ATOLL",
+   "Latitude": 1.914183333,
+   "longitude": 73.24206667
+ },
+ {
+   "OBJECTID": 415,
+   "Name": "Isdhoo East",
+   "Atoll": "LAAMU ATOLL",
+   "Latitude": 2.128616667,
+   "longitude": 73.58748333
+ },
+ {
+   "OBJECTID": 416,
+   "Name": "Isdhoo West",
+   "Atoll": "LAAMU ATOLL",
+   "Latitude": 2.129616667,
+   "longitude": 73.58023333
+ },
+ {
+   "OBJECTID": 417,
+   "Name": "Munnafushi kandu",
+   "Atoll": "LAAMU ATOLL",
+   "Latitude": 2.000133333,
+   "longitude": 73.32241667
+ },
+ {
+   "OBJECTID": 418,
+   "Name": "Vadinolhu Kandu",
+   "Atoll": "LAAMU ATOLL",
+   "Latitude": 2.025783333,
+   "longitude": 73.3612
+ },
+ {
+   "OBJECTID": 419,
+   "Name": "Dhiyadhoo Ethere",
+   "Atoll": "GAAFU ALIFU ATOLL",
+   "Latitude": 0.478333333,
+   "longitude": 73.52705
+ },
+ {
+   "OBJECTID": 420,
+   "Name": "Funadhoo Kandu",
+   "Atoll": "GAAFU ALIFU ATOLL",
+   "Latitude": 0.559666667,
+   "longitude": 73.53241667
+ },
+ {
+   "OBJECTID": 421,
+   "Name": "Kondey Kandu",
+   "Atoll": "GAAFU ALIFU ATOLL",
+   "Latitude": 0.485983333,
+   "longitude": 73.56095
+ },
+ {
+   "OBJECTID": 422,
+   "Name": "Kondey Coral Garden",
+   "Atoll": "GAAFU ALIFU ATOLL",
+   "Latitude": 0.483983333,
+   "longitude": 73.54338333
+ },
+ {
+   "OBJECTID": 423,
+   "Name": "Kooddoo Kandu",
+   "Atoll": "GAAFU ALIFU ATOLL",
+   "Latitude": 0.724733333,
+   "longitude": 73.44166667
+ },
+ {
+   "OBJECTID": 424,
+   "Name": "Kuredhoo Kandu",
+   "Atoll": "GAAFU ALIFU ATOLL",
+   "Latitude": 0.653216667,
+   "longitude": 73.44433333
+ },
+ {
+   "OBJECTID": 425,
+   "Name": "Maareha Kandu",
+   "Atoll": "GAAFU ALIFU ATOLL",
+   "Latitude": 0.456516667,
+   "longitude": 73.5691
+ },
+ {
+   "OBJECTID": 426,
+   "Name": "Nilandhoo Kandu",
+   "Atoll": "GAAFU ALIFU ATOLL",
+   "Latitude": 0.630433333,
+   "longitude": 73.45838333
+ },
+ {
+   "OBJECTID": 427,
+   "Name": "Turtle Point",
+   "Atoll": "GAAFU ALIFU ATOLL",
+   "Latitude": 0.743766667,
+   "longitude": 73.43155
+ },
+ {
+   "OBJECTID": 428,
+   "Name": "Vodamulaa",
+   "Atoll": "GAAFU ALIFU ATOLL",
+   "Latitude": 0.60175,
+   "longitude": 73.49733333
+ },
+ {
+   "OBJECTID": 429,
+   "Name": "Whale Shark Point",
+   "Atoll": "GAAFU ALIFU ATOLL",
+   "Latitude": 0.810666667,
+   "longitude": 73.38373333
+ },
+ {
+   "OBJECTID": 430,
+   "Name": "Dhigelaabadhuvaa",
+   "Atoll": "GAAFU DHAALU ATOLL",
+   "Latitude": 0.202366667,
+   "longitude": 73.15333333
+ },
+ {
+   "OBJECTID": 431,
+   "Name": "Fiyoari Corner",
+   "Atoll": "GAAFU DHAALU ATOLL",
+   "Latitude": 0.210066667,
+   "longitude": 73.14028333
+ },
+ {
+   "OBJECTID": 432,
+   "Name": "Kaadedhdhoo Kandu",
+   "Atoll": "GAAFU DHAALU ATOLL",
+   "Latitude": 0.475666667,
+   "longitude": 72.9905
+ },
+ {
+   "OBJECTID": 433,
+   "Name": "Mafzoo",
+   "Atoll": "GAAFU DHAALU ATOLL",
+   "Latitude": 0.308016667,
+   "longitude": 73.42375
+ },
+ {
+   "OBJECTID": 434,
+   "Name": "Thinadhoo Thila",
+   "Atoll": "GAAFU DHAALU ATOLL",
+   "Latitude": 0.52135,
+   "longitude": 73.05361667
+ },
+ {
+   "OBJECTID": 435,
+   "Name": "Vaadhoo Kandu",
+   "Atoll": "GAAFU DHAALU ATOLL",
+   "Latitude": 0.233033333,
+   "longitude": 73.28925
+ },
+ {
+   "OBJECTID": 436,
+   "Name": "Vaadhoo Kuda Kandu",
+   "Atoll": "GAAFU DHAALU ATOLL",
+   "Latitude": 0.19555,
+   "longitude": 73.23673333
+ },
+ {
+   "OBJECTID": 437,
+   "Name": "Maavaru Bathi Coner",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.999235552,
+   "longitude": 72.91990893
+ },
+ {
+   "OBJECTID": 438,
+   "Name": "Thanmathi Falhu",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.960382881,
+   "longitude": 72.87619967
+ },
+ {
+   "OBJECTID": 439,
+   "Name": "Dhooras Kudagaa Hoholha",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.917997684,
+   "longitude": 72.86499598
+ },
+ {
+   "OBJECTID": 440,
+   "Name": "Dhooras Kudagaa Uthuru",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.921986422,
+   "longitude": 72.86787673
+ },
+ {
+   "OBJECTID": 441,
+   "Name": "Aaavee Caves",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.926085958,
+   "longitude": 72.87097908
+ },
+ {
+   "OBJECTID": 442,
+   "Name": "Vommuli Caves",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.910684998,
+   "longitude": 72.86831993
+ },
+ {
+   "OBJECTID": 443,
+   "Name": "Beybe Hoholha (Caves)",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.908358235,
+   "longitude": 72.86610396
+ },
+ {
+   "OBJECTID": 444,
+   "Name": "Ayya Thila",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.911903779,
+   "longitude": 72.85314056
+ },
+ {
+   "OBJECTID": 445,
+   "Name": "Aaavee East Coner",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.91633571,
+   "longitude": 72.88084013
+ },
+ {
+   "OBJECTID": 446,
+   "Name": "Rin'budhoo Hoholha (Caves)",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.92209722,
+   "longitude": 72.89380353
+ },
+ {
+   "OBJECTID": 447,
+   "Name": "O-Ring Thila",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.936722591,
+   "longitude": 72.90022983
+ },
+ {
+   "OBJECTID": 448,
+   "Name": "Soft Coral Pass",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.943509833,
+   "longitude": 72.84947651
+ },
+ {
+   "OBJECTID": 449,
+   "Name": "Maadheli Uthuru Kan'du",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.925155022,
+   "longitude": 72.84085531
+ },
+ {
+   "OBJECTID": 450,
+   "Name": "Hulhudheli Kan'du Uthuru",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.857436897,
+   "longitude": 72.84057721
+ },
+ {
+   "OBJECTID": 451,
+   "Name": "Hulhudheli Kan'du Dhekunu",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.849650008,
+   "longitude": 72.83793523
+ },
+ {
+   "OBJECTID": 452,
+   "Name": "Nizaaru Thila",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.906800212,
+   "longitude": 72.91344024
+ },
+ {
+   "OBJECTID": 453,
+   "Name": "Fushi Faru West",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.91973201,
+   "longitude": 72.85170134
+ },
+ {
+   "OBJECTID": 454,
+   "Name": "Fushi Faru North-East",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.922234939,
+   "longitude": 72.85545573
+ },
+ {
+   "OBJECTID": 455,
+   "Name": "Maagau South",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.945595607,
+   "longitude": 72.91149352
+ },
+ {
+   "OBJECTID": 456,
+   "Name": "Athafushee Falhu",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.873149727,
+   "longitude": 72.87311528
+ },
+ {
+   "OBJECTID": 457,
+   "Name": "Boduhaa",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.867031457,
+   "longitude": 72.90301137
+ },
+ {
+   "OBJECTID": 458,
+   "Name": "WS Thila",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.972710667,
+   "longitude": 72.89772741
+ },
+ {
+   "OBJECTID": 459,
+   "Name": "Hulhudheli Giri",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.875513604,
+   "longitude": 72.86143495
+ },
+ {
+   "OBJECTID": 460,
+   "Name": "Arivaru Giri",
+   "Atoll": "DHAALU ATOLL",
+   "Latitude": 2.907584554,
+   "longitude": 72.85419063
+ }
+]
